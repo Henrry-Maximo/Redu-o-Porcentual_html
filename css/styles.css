@@ -13,8 +13,11 @@ form {
   /* Centralizar o form */
   width: 500px;
   height: 25px;
-  margin-top: 280px;
   margin-left: 510px;
+  margin: auto;
+  padding: auto;
+  display: block;
+  margin-top: 20%;
   /* Bordas do formulário */
   padding: 2em;
   border: 3px solid #ccc;
